@@ -1,0 +1,19 @@
+catalogo-match
+Copyright 2026 Ali Cerna
+
+Este producto incluye software desarrollado por terceros:
+
+1) google/embeddinggemma-2
+   - Autor: Google DeepMind
+   - Licencia: Apache License 2.0 (ver https://huggingface.co/google/embeddinggemma-2)
+   - Uso: embeddings multimodales (texto/imagen/vídeo/audio) para el emparejador.
+   - Nota: el modelo se descarga aparte; no se distribuye dentro de este repositorio.
+     Las implementaciones derivadas deben respetar la Gemma Prohibited Use Policy
+     descrita en la ficha del modelo.
+
+2) Entorno recomendado: sentence-transformers, transformers, torch, numpy, pandas,
+   rapidfuzz, fastapi — cada uno con su propia licencia (Apache-2.0 / MIT / BSD).
+
+3) Los datos de data/sintetico/ son 100% sintéticos, generados por
+   tools/generar_datos_sinteticos.py, con marcas ficticias. No contienen datos
+   reales de ninguna empresa. Se publican bajo CC0-1.0.

@@ -1,0 +1,24 @@
+# Configuración de catalogo-match
+# Copia este archivo y pásalo con --config archivo.toml
+
+top_candidatos = 25       # candidatos que se re-puntúan con reglas
+top_resultados = 3        # tamaño del top que se devuelve
+
+# Mezcla de señales (deben sumar ~1.0)
+peso_embedding = 0.66
+peso_lexico = 0.26
+peso_cantidad = 0.08
+
+bonus_marca = 0.05        # suma si la marca del SKU aparece en la consulta
+
+# Decisión: puntaje >= umbral_alto -> aceptado; >= umbral_bajo -> revisar; < -> "no sé"
+# Con EmbeddingGemma 2 en CPU estos valores se calibran con: evaluar --calibrar
+umbral_alto = 0.78
+umbral_bajo = 0.60
+margen_empate = 0.01      # si los dos primeros están más cerca que esto, se marca el empate
+
+usar_prefijos = true      # prefijos de tarea de EmbeddingGemma 2 (recomendado)
+formato_documento = "titulo_texto"  # titulo_texto | plano
+truncar_a = 0             # 0 = 768d; admite 512, 256, 128 (MRL)
+con_imagenes_maestro = false  # indexar imágenes del maestro junto al texto (fase 2)
+max_sustitutos = 3

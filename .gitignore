@@ -1,0 +1,30 @@
+# Entorno
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# Zona de pruebas local (ver AGENTS.md global)
+opencode_test/
+
+# Notas internas (no se publican)
+notas_internas/
+
+# Datos reales: nunca versionar catálogos reales
+data/real/
+data/privado/
+*.local.csv
+
+# Salidas generadas localmente
+salidas/
+*.sqlite
+*.npy
+*.faiss
+
+# Sistema
+.DS_Store
+Thumbs.db

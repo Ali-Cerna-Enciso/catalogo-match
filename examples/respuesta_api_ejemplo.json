@@ -1,0 +1,82 @@
+{
+  "id_fila": "PROV-2026-1024",
+  "proveedor": "Distribuidora Andina",
+  "consulta": "NUTRIVIDA CEREAL MAIZ 2KG",
+  "fuente": "api",
+  "decision": "aceptado",
+  "motivo_decision": "puntaje alto",
+  "candidatos": [
+    {
+      "sku": "SKU-000063",
+      "nombre": "Cereal de Maíz",
+      "marca": "NutriVida",
+      "presentacion": "2 kg",
+      "categoria": "abarrotes",
+      "subcategoria": "desayuno",
+      "codigo_barras": "",
+      "precio_lista": 43.23,
+      "stock": 47,
+      "agotado": false,
+      "puntaje": 0.9182,
+      "puntaje_embedding": 0.8003,
+      "puntaje_lexico": 1.0,
+      "puntaje_cantidad": 1.0,
+      "ajustes": {
+        "marca": 0.05
+      },
+      "motivos": [
+        "marca coincide"
+      ]
+    },
+    {
+      "sku": "SKU-000062",
+      "nombre": "Cereal de Maíz",
+      "marca": "NutriVida",
+      "presentacion": "900 g",
+      "categoria": "abarrotes",
+      "subcategoria": "desayuno",
+      "codigo_barras": "",
+      "precio_lista": 15.53,
+      "stock": 11,
+      "agotado": false,
+      "puntaje": 0.75,
+      "puntaje_embedding": 0.7433,
+      "puntaje_lexico": 0.6671,
+      "puntaje_cantidad": 0.45,
+      "ajustes": {
+        "marca": 0.05
+      },
+      "motivos": [
+        "marca coincide",
+        "presentación distinta"
+      ]
+    },
+    {
+      "sku": "SKU-000065",
+      "nombre": "Barra de Cereal",
+      "marca": "NutriVida",
+      "presentacion": "60 un",
+      "categoria": "abarrotes",
+      "subcategoria": "desayuno",
+      "codigo_barras": "2990741828897",
+      "precio_lista": 39.54,
+      "stock": 0,
+      "agotado": true,
+      "puntaje": 0.7029,
+      "puntaje_embedding": 0.7001,
+      "puntaje_lexico": 0.5331,
+      "puntaje_cantidad": null,
+      "ajustes": {
+        "marca": 0.05
+      },
+      "motivos": [
+        "marca coincide",
+        "unidades no comparables"
+      ]
+    }
+  ],
+  "sustitutos": [],
+  "detalles": {
+    "modo_consulta": "texto"
+  }
+}

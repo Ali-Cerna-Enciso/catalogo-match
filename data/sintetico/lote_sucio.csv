@@ -1,0 +1,418 @@
+﻿id_fila,proveedor,texto,codigo_barras,imagen,fuente,dificultad
+F0001,Distribuidora Andina SAC,FRIO POLAR NUGGETS POLLO 750G,,imagenes/lote/F0001.jpg,foto,facil
+F0002,Corporación Costa Verde,NUTRIVIDA CEREAL MAIZ 2KG,,,texto,facil
+F0003,Abastecedora El Mirador,fideo espagueti 200GR,,,texto,media
+F0004,Almacén Central Sur,REF A7X9 900GR PA5TA DENTA,,,texto,dificil
+F0005,Comercial Pacífico,MANANTIAL AZUL LECHE EVAP 4X100G,,,texto,facil
+F0006,Importaciones Lima Norte,900ML limpiador pisos,2994397258442,,texto,media
+F0007,Proveedora Santa Elena,queso fresco 2000GR,,,texto,media
+F0008,Mayorista San Martín,SABORES DEL ALBA DETERG LAVANDA 3X170G,,,texto,facil
+F0009,Comercial Los Álamos,AMBIENT PINO 2L,,,texto,facil
+F0010,Distribuciones Quebrada Alta,LIMPIAMAX LAVAVAJ 1.5L,,,texto,facil
+F0011,Mayorista San Martín,refresco limon 500ML,2999858463885,,texto,media
+F0012,Logística Puerto Nuevo,CAMPO ALEGRE FRIJOL CAN 200G,,imagenes/lote/F0012.jpg,foto,facil
+F0013,Import Export Rímac,900ML aceite oliva extra,2999747540727,,texto,media
+F0014,Importaciones Lima Norte,ATUN AGUA 250G,,,texto,facil
+F0015,Logística Puerto Nuevo,leche entera 1500ML,,,texto,media
+F0016,Proveedora Santa Elena,LOTE 24 VALLE VERDE CRMEA LECHE 3L,,,texto,dificil
+F0017,Logística Puerto Nuevo,AMBIENT 2L,,imagenes/lote/F0017.jpg,foto,facil
+F0018,Proveedora Santa Elena,alimento cachorro gato 10KG,,,texto,media
+F0019,Proveedora Santa Elena,ANDINA QUINUA PERL 200G,2996898329829,imagenes/lote/F0019.jpg,foto,facil
+F0020,Corporación Costa Verde,900GR yogur frutilla griego,2990586021453,imagenes/lote/F0020.jpg,foto,media
+F0021,Mayorista San Martín,LOTE 24 ALIMENT0 PRERO ADUL 250GR,,imagenes/lote/F0021.jpg,foto,dificil
+F0022,Corporación Costa Verde,"DESCRIPCION: 3L shampoo anticaspa
+EAN: 2998296017964
+LOTE: L987",2998296017964,,pdf,media
+F0023,Distribuidora Tres Fronteras,LECHE EVAP 170G,2997951117445,,texto,facil
+F0024,Importaciones Lima Norte,X6 cepillo dental,,,texto,media
+F0025,Comercial Pacífico,SABOR SURENO SALSA TOMATE 10KG,,imagenes/lote/F0025.jpg,foto,facil
+F0026,Proveedora Santa Elena,CAMPO ALEGER ARVEJA CONG 170G,2993004263718,,texto,dificil
+F0027,Grupo Mayorista Naranjal,FIDEO CABELLO ANGEL 200G EAN 2993311592129,2993311592129,,texto,facil
+F0028,Corporación Costa Verde,HELADO CHOC 900ML,2995485066352,,texto,facil
+F0029,Importaciones Lima Norte,jabon tocador X4 EAN 2993541488186,2993541488186,,texto,media
+F0030,Corporación Costa Verde,lenteja serrana 900GR,,,texto,media
+F0031,Distribuciones Quebrada Alta,"DESCRIPCION: COD 88123 Y0G COCO 10KG
+UNID: 10 KG
+COD PROV: 5602
+LOTE: L950",,,pdf,dificil
+F0032,Mayorista San Martín,LIMPIAD PISOS 900ML,2994397258442,,texto,facil
+F0033,Grupo Mayorista Naranjal,MIMOS BABY PANAL BEBE 24UN,,,texto,facil
+F0034,Distribuidora Andina SAC,OP 9910 CUIDADO LOTE 24 SANO SHAMP ANTIC PACK 6 3L,,,texto,dificil
+F0035,Importaciones Lima Norte,limpiador vidrios 3000ML,2997959650562,,texto,media
+F0036,Comercial Los Álamos,AGUA MINERAL GAS 900ML,,imagenes/lote/F0036.jpg,foto,facil
+F0037,Grupo Mayorista Naranjal,900ML aceite extra oliva,2999747540727,,texto,media
+F0038,Abastecedora El Mirador,A1CGHOL GEL 250ML,2996133800533,,texto,dificil
+F0039,Logística Puerto Nuevo,CUIDADO SANO SHAMPOO ANTIC 1.5L,,,texto,facil
+F0040,Logística Puerto Nuevo,ACEITE VEG 6X1.5L,,imagenes/lote/F0040.jpg,foto,facil
+F0041,Comercial Pacífico,fideo cabello angel 200GR,2993311592129,,texto,media
+F0042,Grupo Mayorista Naranjal,CAMPO ALEGRE FRIJOL CAN 200G EAN 2996193073366,2996193073366,,texto,facil
+F0043,Distribuidora Tres Fronteras,queso parmesano 2KG,,,texto,media
+F0044,Comercial Pacífico,GASEOSA COLA 4L EAN 2996352136291,2996352136291,,texto,facil
+F0045,Proveedora Santa Elena,CAJA X12 ASLAS T0MATE 170GR,,,texto,dificil
+F0046,Abastecedora El Mirador,500ML refresco limon,,imagenes/lote/F0046.jpg,foto,media
+F0047,Mayorista San Martín,frijol canario 1000GR,2998283472851,,texto,media
+F0048,Import Export Rímac,DON PANCHO ACEITE VEG 6X1.5L EAN 2996028837552,2996028837552,,texto,facil
+F0049,Corporación Costa Verde,suavizante ropa 1L EAN 2998361520290,2998361520290,,texto,media
+F0050,Proveedora Santa Elena,bebida rehidratante 1.5L,2993279672680,imagenes/lote/F0050.jpg,foto,media
+F0051,Comercial Los Álamos,ATUN AGUA 250G,,,texto,facil
+F0052,Almacén Central Sur,sal mesa 750GR,2998025201619,,texto,media
+F0053,Comercial Los Álamos,AURORA YOG GRIEGO NATURAL 10KG,2996688281122,,texto,facil
+F0054,Proveedora Santa Elena,LIMPIAMAX AMBIENT 2L,,imagenes/lote/F0054.jpg,foto,facil
+F0055,Distribuidora Tres Fronteras,ARENA SANT 1KG,,,texto,facil
+F0056,Distribuidora Tres Fronteras,GASEOSA COLA 4L,,,texto,facil
+F0057,Distribuidora Andina SAC,SALSA TOMAT 170GR PACK 6,,,texto,dificil
+F0058,Mayorista San Martín,MANTEQ SAL 10KG,2995178836552,,texto,facil
+F0059,Comercial Pacífico,suavizante bebe 20L,,,texto,media
+F0060,Corporación Costa Verde,SABORES DEL ALBA CAFE MOLIDO 900G,,,texto,facil
+F0061,Logística Puerto Nuevo,250ML ALCOHOL GEEL,2996133800533,,texto,dificil
+F0062,Corporación Costa Verde,900GR CEREAL MABIZ,,,texto,dificil
+F0063,Distribuidora Tres Fronteras,"DESCRIPCION: KIWICHA 4X100G
+LOTE: L624",,,pdf,facil
+F0064,Abastecedora El Mirador,HELADO LUCUMA 900ML,,,texto,facil
+F0065,Grupo Mayorista Naranjal,FACT 2291 CREMM LECHE 4L,,,texto,dificil
+F0066,Almacén Central Sur,KIWIDHA 400GR,,,texto,dificil
+F0067,Distribuidora Tres Fronteras,CAFE MOLIDO 900G,,,texto,facil
+F0068,Importaciones Lima Norte,9L helado chocolate,,,texto,media
+F0069,Abastecedora El Mirador,MIMOS BABY TOALL HUM BEBE 6UN,,,texto,facil
+F0070,Abastecedora El Mirador,CIELO ANDINO GASEOSA COLA 20L,,,texto,facil
+F0071,Corporación Costa Verde,arveja congelada 5000GR,,imagenes/lote/F0071.jpg,foto,media
+F0072,Distribuidora Andina SAC,5000GR ARROZ EXTRAA,,,texto,dificil
+F0073,Comercial Los Álamos,"DESCRIPCION: MOLINO ALEGRE FIDEO CABELLO ANGEL 750G
+UNID: 750 G
+EAN: 2996360824456
+COD PROV: 1650
+LOTE: L876",2996360824456,,pdf,facil
+F0074,Comercial Los Álamos,900GR queso edam,2997926451543,imagenes/lote/F0074.jpg,foto,media
+F0075,Distribuidora Tres Fronteras,GASEOSA COLA 20L,,,texto,facil
+F0076,Comercial Pacífico,PANAL BEBE 24UN,,imagenes/lote/F0076.jpg,foto,facil
+F0077,Logística Puerto Nuevo,MOLINO ALEGRE HARINA PREP 2KG,,,texto,facil
+F0078,Comercial Los Álamos,PROMO REF A7X9 LAVAVAJ 2L,,,texto,dificil
+F0079,Almacén Central Sur,CREMA LECHE 4L,,,texto,facil
+F0080,Mayorista San Martín,shampoo anticaspa 1500ML,,imagenes/lote/F0080.jpg,foto,media
+F0081,Abastecedora El Mirador,"DESCRIPCION: NUTRIVIDA BARRA CEREAL 30UN
+UNID: 30 UN
+EAN: 2997041214306
+LOTE: L593",2997041214306,,pdf,facil
+F0082,Comercial Los Álamos,azucar blanca 900GR,,,texto,media
+F0083,Comercial Pacífico,HELADO LUCUMA 4L,,,texto,facil
+F0084,Distribuidora Tres Fronteras,refresco limon 4000ML,,imagenes/lote/F0084.jpg,foto,media
+F0085,Comercial Los Álamos,atun agua 1KG EAN 2997588814403,2997588814403,,texto,media
+F0086,Mayorista San Martín,cepillo dental X24,,,texto,media
+F0087,Distribuidora Tres Fronteras,900GR lenteja serrana,,,texto,media
+F0088,Corporación Costa Verde,COD 88123 LOTE 24 REF A7X9 LIMPIAD PISOS 6X1.5L,2999303995510,,texto,dificil
+F0089,Distribuidora Andina SAC,LIMPIAMAX LEJIA 6X1.5L,,,texto,facil
+F0090,Almacén Central Sur,SABOR SURENO ATUN ACEITE 2KG,2995769908545,,texto,facil
+F0091,Distribuidora Andina SAC,400GR kiwicha,,,texto,media
+F0092,Import Export Rímac,SUAVIZ ROPA 1L,2998361520290,,texto,facil
+F0093,Mayorista San Martín,sal mesa 200GR,,imagenes/lote/F0093.jpg,foto,media
+F0094,Almacén Central Sur,CAMPO ALEGRE SALSA AJI 750G,,,texto,facil
+F0095,Proveedora Santa Elena,cafe molido 2000GR,2992845142039,,texto,media
+F0096,Import Export Rímac,200GR SAL ME5A,,,texto,dificil
+F0097,Distribuidora Andina SAC,HELADO LUCUMA 900ML,,,texto,facil
+F0098,Importaciones Lima Norte,"DESCRIPCION: 750GR sal mesa
+UNID: 750 G
+EAN: 2998025201619
+LOTE: L773",2998025201619,,pdf,media
+F0099,Mayorista San Martín,"DESCRIPCION: VALLLE VERDEE YOG BEBIBLE FRESA 1.5L
+UNID: 1.5 L
+LOTE: L552",,,pdf,dificil
+F0100,Comercial Los Álamos,QUES FRESCO 2KG,2992373556964,,texto,dificil
+F0101,Almacén Central Sur,REF A7X9 1IMPIAMAX LEJIA 1L,2999456994392,,texto,dificil
+F0102,Almacén Central Sur,COD 88123 HAMBURGUESA RES 510GR,,,texto,dificil
+F0103,Comercial Los Álamos,barra cereal X60,,,texto,media
+F0104,Corporación Costa Verde,bebida rehidratante 500ML,,,texto,media
+F0105,Import Export Rímac,CAMPO ALEGRE CHOCLO CONG 4X100G,2995529301265,imagenes/lote/F0105.jpg,foto,facil
+F0106,Grupo Mayorista Naranjal,LOTE 24 X6 CEPILLV DENTAV,,,texto,dificil
+F0107,Comercial Pacífico,"DESCRIPCION: galleta soda 170GR
+EAN: 2998385642718
+LOTE: L737",2998385642718,,pdf,media
+F0108,Distribuidora Tres Fronteras,1000ML SUAV RPOA,2998361520290,,texto,dificil
+F0109,Abastecedora El Mirador,lomo saltado congelado 500GR,,imagenes/lote/F0109.jpg,foto,media
+F0110,Logística Puerto Nuevo,detergente polvo 5KG,,,texto,media
+F0111,Mayorista San Martín,CAMPO ALEGRE ARVEJA CONG 170G,2993004263718,,texto,facil
+F0112,Abastecedora El Mirador,ATUN AGUA 250G,,,texto,facil
+F0113,Distribuidora Andina SAC,PROV-4471 LENTEJA SZRR 170G,,,texto,dificil
+F0114,Distribuidora Tres Fronteras,AURORA MANTEQ SAL 900G,,,texto,facil
+F0115,Distribuciones Quebrada Alta,"DESCRIPCION: 9L helado choc
+UNID: 6 X 1.5 L
+COD PROV: 7625
+LOTE: L670",,,pdf,media
+F0116,Distribuidora Tres Fronteras,ALIM GATO CACH 250G,,,texto,facil
+F0117,Abastecedora El Mirador,X60 barra cereal,,,texto,media
+F0118,Distribuidora Tres Fronteras,AURORA MANTEQ SAL 900G,2994497660855,imagenes/lote/F0118.jpg,foto,facil
+F0119,Import Export Rímac,"DESCRIPCION: CAMPO ALEGRE ACEITE OLIVA EXTRA 900ML
+UNID: 900 ML
+EAN: 2999747540727
+LOTE: L772",2999747540727,,pdf,facil
+F0120,Grupo Mayorista Naranjal,gas cola 20L,2998639848866,,texto,media
+F0121,Almacén Central Sur,PAAPS PREF 2KG,2991661146351,imagenes/lote/F0121.jpg,foto,dificil
+F0122,Importaciones Lima Norte,CEREAL MAIZ 2KG,,,texto,facil
+F0123,Mayorista San Martín,helado limon 4000ML,,imagenes/lote/F0123.jpg,foto,media
+F0124,Abastecedora El Mirador,GALL CHOC 5KG,,,texto,facil
+F0125,Almacén Central Sur,MIMOS BABY TOALL HUM BEBE 8UN,,,texto,facil
+F0126,Mayorista San Martín,900GR cereal maiz,,,texto,media
+F0127,Comercial Los Álamos,BARRA CEREAL 60UN,,,texto,facil
+F0128,Mayorista San Martín,1KG queso edam EAN 2997428435287,2997428435287,,texto,media
+F0129,Grupo Mayorista Naranjal,choclo congelado 400GR,,,texto,media
+F0130,Distribuciones Quebrada Alta,SABOR SURENO ATUN AGUA 1KG,,,texto,facil
+F0131,Distribuidora Andina SAC,"DESCRIPCION: MOLINO ALEGRE ALIM PERRO SENIOR 5KG
+LOTE: L980",,,pdf,facil
+F0132,Mayorista San Martín,170GR leche evaporada,2997951117445,,texto,media
+F0133,Grupo Mayorista Naranjal,ACEITE VEG 4L,,imagenes/lote/F0133.jpg,foto,facil
+F0134,Logística Puerto Nuevo,"DESCRIPCION: MIMOS BBAY TOALLL HUM BEBE 8UN
+UNID: 8 UN
+LOTE: L514",,,pdf,dificil
+F0135,Importaciones Lima Norte,FRIJOL CAN 1KG,2998283472851,,texto,facil
+F0136,Distribuciones Quebrada Alta,aceite vegetal 9000ML,,,texto,media
+F0137,Import Export Rímac,LIMPIAMAX DETERG LIQUIDO 900ML,,,texto,facil
+F0138,Importaciones Lima Norte,"DESCRIPCION: ANDINA KIWICHA 4X100G
+LOTE: L898",,,pdf,facil
+F0139,Logística Puerto Nuevo,1500ML PAAV,,,texto,dificil
+F0140,Proveedora Santa Elena,PACK 6 AGUA MINERA1 GAS 9000ML,2999924800521,imagenes/lote/F0140.jpg,foto,dificil
+F0141,Almacén Central Sur,AGUA MINERAL GAS 1L,,,texto,facil
+F0142,Mayorista San Martín,PACK 6 1500ML ACEITE LOTE 24 GIRA,,,texto,dificil
+F0143,Logística Puerto Nuevo,aceite oliva extra 3L,2995473548648,,texto,media
+F0144,Mayorista San Martín,ARVEJA CONG 5KG,,imagenes/lote/F0144.jpg,foto,facil
+F0145,Distribuciones Quebrada Alta,kiwicha 400GR,,,texto,media
+F0146,Importaciones Lima Norte,BRILLO NORTE SUAVIZ ROPA 1L,2998361520290,,texto,facil
+F0147,Comercial Los Álamos,SABOR SURENO SALSA TOMATE 10KG,,,texto,facil
+F0148,Corporación Costa Verde,crema corporal 2000ML,2999235240139,,texto,media
+F0149,Distribuciones Quebrada Alta,"DESCRIPCION: CEREAL MAIZ 2KG
+LOTE: L427",,,pdf,facil
+F0150,Distribuidora Tres Fronteras,FIDEO TALL 2KG,2996753478976,,texto,facil
+F0151,Mayorista San Martín,atun agua 1000GR,,,texto,media
+F0152,Corporación Costa Verde,KIWIC COD 88123 400GR,,,texto,dificil
+F0153,Importaciones Lima Norte,1L lejia,,,texto,media
+F0154,Distribuidora Tres Fronteras,"DESCRIPCION: papa prefritas 2KG
+LOTE: L112",,,pdf,media
+F0155,Distribuidora Tres Fronteras,SABOR FACT 2291 SURENO SAL MESA 750G,,,texto,dificil
+F0156,Comercial Pacífico,LIMPIAD PPISOS 6X1.5L,,,texto,dificil
+F0157,Mayorista San Martín,arena sanitaria 5KG,,,texto,media
+F0158,Mayorista San Martín,fideo cabello angel 750GR,,imagenes/lote/F0158.jpg,foto,media
+F0159,Grupo Mayorista Naranjal,"DESCRIPCION: leche evaporada 400GR
+UNID: 4 X 100 G
+LOTE: L657",,,pdf,media
+F0160,Almacén Central Sur,shampoo sabila 500ML,2997204126347,,texto,media
+F0161,Distribuidora Tres Fronteras,PROMO MANTEQ SAAL 10KG,,,texto,dificil
+F0162,Logística Puerto Nuevo,"DESCRIPCION: MIMOS BABY PANAL BEBE 24UN
+UNID: 24 UN
+LOTE: L839",,,pdf,facil
+F0163,Logística Puerto Nuevo,GASEOSA COLA 4L,2996352136291,,texto,dificil
+F0164,Distribuciones Quebrada Alta,BLANCO DE CASA QUESO FRESCO 2KG,2992373556964,,texto,facil
+F0165,Grupo Mayorista Naranjal,SABOR SURENO ATUN ACEITE 4X100G,,,texto,facil
+F0166,Mayorista San Martín,MOLINO ALEGSE FIDEO CABELLO ANGEL 200G,,,texto,dificil
+F0167,Distribuciones Quebrada Alta,"DESCRIPCION: PAPEL HIG 12UN
+UNID: 12 UN
+LOTE: L476",,,pdf,facil
+F0168,Corporación Costa Verde,CHOCL CONGELADO 500GR,2998129770578,,texto,dificil
+F0169,Mayorista San Martín,atun aceite 2000GR,2995769908545,,texto,media
+F0170,Distribuidora Tres Fronteras,DETERG LIQUIDO 900ML,,,texto,facil
+F0171,Logística Puerto Nuevo,BLANCO DE CASA JUGO MARACUYA 1.5L,,,texto,facil
+F0172,Corporación Costa Verde,SERIE K2 RERFESCO LIFON 500ML,,,texto,dificil
+F0173,Grupo Mayorista Naranjal,gas cola 20L,,,texto,media
+F0174,Grupo Mayorista Naranjal,"DESCRIPCION: DETERG POLVO 250G
+UNID: 250 G
+LOTE: L386",,,pdf,facil
+F0175,Comercial Pacífico,arroz integral 200GR,,,texto,media
+F0176,Distribuciones Quebrada Alta,NUTRIVIDA BARRA CEREAL 60UN,,,texto,facil
+F0177,Proveedora Santa Elena,LEJIA 6X1.5L,2998640894876,,texto,facil
+F0178,Almacén Central Sur,LEGTEJA SERRRANNA 900GR,,,texto,dificil
+F0179,Almacén Central Sur,KIWIHCA 5KG REF A7X9,,,texto,dificil
+F0180,Importaciones Lima Norte,9000ML limpiador pisos,,,texto,media
+F0181,Importaciones Lima Norte,2L LAVVAAJJILLAS,2993013205983,,texto,dificil
+F0182,Corporación Costa Verde,PROV-4471 CUIDADO SANO SHAMPOO SBAI1A 1L,,imagenes/lote/F0182.jpg,foto,dificil
+F0183,Comercial Pacífico,HELADO VAINILLA 1L,,,texto,facil
+F0184,Distribuciones Quebrada Alta,RIO CLARRO REFRESCO LIMON REF A7X9 500ML,2999858463885,imagenes/lote/F0184.jpg,foto,dificil
+F0185,Proveedora Santa Elena,REF A7X9 NUGGE PROV-4471 PO1LO 750GR EAN 2991703927337,2991703927337,,texto,dificil
+F0186,Import Export Rímac,CUIDADO SANO SHAMPOO ANTIC 1.5L,,,texto,facil
+F0187,Distribuidora Andina SAC,SALSA TOMATE 170G,2997392731972,,texto,facil
+F0188,Distribuciones Quebrada Alta,SNACK PERRO HUESO 2KG,2993496770442,imagenes/lote/F0188.jpg,foto,facil
+F0189,Abastecedora El Mirador,CREMA CORP 2L,2999235240139,,texto,facil
+F0190,Importaciones Lima Norte,RIO CLARO HELADO LIMON 4L,,,texto,facil
+F0191,Comercial Pacífico,PZZZA ZAM 500G,2991241726430,imagenes/lote/F0191.jpg,foto,dificil
+F0192,Import Export Rímac,"DESCRIPCION: PACK 6 HARINA RPEPAARDA 2KG
+UNID: 2 KG
+LOTE: L484",,,pdf,dificil
+F0193,Comercial Los Álamos,arroz extra 5000GR,,imagenes/lote/F0193.jpg,foto,media
+F0194,Comercial Pacífico,aceite girasol 2000ML,,,texto,media
+F0195,Comercial Pacífico,LIMPIAMAX LAVAVAJ 1.5L,,imagenes/lote/F0195.jpg,foto,facil
+F0196,Mayorista San Martín,leche evaporada 400GR,,,texto,media
+F0197,Distribuciones Quebrada Alta,CUIDADO SANO DESOD ROLL-ON 1.5L,,,texto,facil
+F0198,Abastecedora El Mirador,170GR arroz aromatico,,,texto,media
+F0199,Abastecedora El Mirador,AVENA TRES HOJ 900G,2998281953918,,texto,facil
+F0200,Corporación Costa Verde,SERIE K2 LIMMBIAMAX AMBIENT 2L,,,texto,dificil
+F0201,Distribuidora Andina SAC,9000ML helado chocolate,2997682597349,,texto,media
+F0202,Distribuciones Quebrada Alta,FRIO POLAR NUGGETS POLLO 900G,2997030488770,,texto,facil
+F0203,Corporación Costa Verde,alimento gato adulto 750GR EAN 2996114108238,2996114108238,,texto,media
+F0204,Abastecedora El Mirador,VALLE VERDE YOG BEBIBLE FRESA 1.5L,2995844093241,,texto,facil
+F0205,Corporación Costa Verde,CAMPO ALEGRE ARVEJA CONG 5KG,,,texto,facil
+F0206,Abastecedora El Mirador,"DESCRIPCION: HELAD0 CH0C 9000ML
+UNID: 6 X 1.5 L
+EAN: 2997682597349
+LOTE: L302",2997682597349,,pdf,dificil
+F0207,Almacén Central Sur,LOMO SALTADO CONG 500G,,,texto,facil
+F0208,Abastecedora El Mirador,AZUCAR BLANCA 250G,,,texto,facil
+F0209,Comercial Los Álamos,KIWICHA 4X100G,,,texto,facil
+F0210,Comercial Pacífico,"DESCRIPCION: TOALL HUM BEBE 6UN
+UNID: 6 UN
+EAN: 2993633437016
+LOTE: L276",2993633437016,,pdf,facil
+F0211,Comercial Pacífico,REF A7X9 X24 CEPILLO DENTAL SERIE K2,,,texto,dificil
+F0212,Proveedora Santa Elena,ARENA SANT PREMIUM 900G,,,texto,facil
+F0213,Distribuidora Andina SAC,NUTRIVIDA BARRA CEREAL 60UN,,,texto,facil
+F0214,Distribuciones Quebrada Alta,CAMPO ALEGRE CHOCLO CONG 4X100G,2995529301265,,texto,facil
+F0215,Grupo Mayorista Naranjal,CAMPO ALEGRE ARVEJA CONG 5KG,,,texto,facil
+F0216,Proveedora Santa Elena,PA5TA DEDTAL 900G,2991649753328,,texto,dificil
+F0217,Importaciones Lima Norte,2000GR fideo tallarin EAN 2996753478976,2996753478976,,texto,media
+F0218,Proveedora Santa Elena,BRILLO NORTE LIMPIAD VIDRIOS 3L,,,texto,facil
+F0219,Almacén Central Sur,CAJA X12 NUTR JUGO MARACUYA 2L,,,texto,dificil
+F0220,Import Export Rímac,FIDEO CABELLO REF A7X9 ANGEL 750G,,,texto,dificil
+F0221,Importaciones Lima Norte,"DESCRIPCION: YOGUR GRIEGO LOTE 24 FRRUTILLA 900GR
+UNID: 900 G
+EAN: 2990586021453
+LOTE: L159",2990586021453,,pdf,dificil
+F0222,Distribuciones Quebrada Alta,salsa tomate 10KG,2997807360872,,texto,media
+F0223,Abastecedora El Mirador,5KG ARENA SANITARIA EAN 2994781824468,2994781824468,,texto,dificil
+F0224,Grupo Mayorista Naranjal,BRILLO NORTE LIMPIAD VIDRIOS 900ML,,,texto,facil
+F0225,Distribuidora Tres Fronteras,AMBIENT PINO 500ML,,,texto,facil
+F0226,Corporación Costa Verde,CAMPO ALEGRE LENTEJA SERR 900G,,imagenes/lote/F0226.jpg,foto,facil
+F0227,Import Export Rímac,bebida quinua 900ML,,,texto,media
+F0228,Abastecedora El Mirador,LIMPIAD VIDRIOS 3L,2997959650562,,texto,facil
+F0229,Comercial Los Álamos,lavavajillas 2L,2993013205983,,texto,media
+F0230,Distribuciones Quebrada Alta,"DESCRIPCION: TOALL HUM BEBE 6UN
+UNID: 6 UN
+COD PROV: 1943
+LOTE: L504",,,pdf,facil
+F0231,Importaciones Lima Norte,MANANTIAL AZUL LECHE EVAP 170G,2997951117445,,texto,facil
+F0232,Distribuciones Quebrada Alta,FRIJOL CAN 1KG EAN 2998283472851,2998283472851,,texto,facil
+F0233,Corporación Costa Verde,snack perro hueso 2KG,,,texto,media
+F0234,Corporación Costa Verde,BARRA CEREAL 60UN EAN 2990741828897,2990741828897,,texto,facil
+F0235,Distribuidora Andina SAC,"DESCRIPCION: cereal maiz 2KG
+UNID: 2 KG
+COD PROV: 7207
+LOTE: L881",,,pdf,media
+F0236,Distribuciones Quebrada Alta,LOTE 24 MANANTIAN AZUL LECHE EVAP 170G,,,texto,dificil
+F0237,Comercial Los Álamos,COD 88123 REFRESCO PACK 6 LIM0N 4L EAN 2999855683064,2999855683064,,texto,dificil
+F0238,Grupo Mayorista Naranjal,aceite girasol 1.5L,,,texto,media
+F0239,Grupo Mayorista Naranjal,azucar rubia 500GR,,,texto,media
+F0240,Distribuidora Andina SAC,queso edam 900GR,2997926451543,,texto,media
+F0241,Corporación Costa Verde,alimento gato adulto 750GR,2996114108238,,texto,media
+F0242,Grupo Mayorista Naranjal,KIWI5HA 5000GR,,,texto,dificil
+F0243,Importaciones Lima Norte,AGUA MINERAL GAS 20L EAN 2990984264070,2990984264070,,texto,facil
+F0244,Distribuciones Quebrada Alta,AZUCAR RUBIA 170G,,,texto,facil
+F0245,Abastecedora El Mirador,BLANCO DE CASA PAPEL HIG 12UN EAN 2997042476130,2997042476130,,texto,facil
+F0246,Abastecedora El Mirador,LECHE DESC 3L,,,texto,facil
+F0247,Import Export Rímac,leche almendra 3000ML,,,texto,media
+F0248,Proveedora Santa Elena,CREMA LECHE 4L,,,texto,facil
+F0249,Mayorista San Martín,COD 88123 AZUCAR BLANAC 250G,,imagenes/lote/F0249.jpg,foto,dificil
+F0250,Distribuidora Tres Fronteras,9000ML helado choc,2997682597349,imagenes/lote/F0250.jpg,foto,media
+F0251,Grupo Mayorista Naranjal,JABON BARRA PROMO X8,2999889042165,,texto,dificil
+F0252,Distribuidora Tres Fronteras,ALCOHOL GEL PACK 6 250ML,,,texto,dificil
+F0253,Comercial Pacífico,LIPMIADOR VIDRIOS 3000ML,2997959650562,imagenes/lote/F0253.jpg,foto,dificil
+F0254,Distribuidora Tres Fronteras,mantequilla sal 10KG,,,texto,media
+F0255,Import Export Rímac,gas cola 4000ML,,,texto,media
+F0256,Almacén Central Sur,BLANCO DE CFSA JABON BARRA 24UN REF A7X9,2991119602781,,texto,dificil
+F0257,Abastecedora El Mirador,ALIM GATO ADULTO 3X170G,,,texto,facil
+F0258,Distribuciones Quebrada Alta,MANANTIAL AZUL AGUA MINERAL GAS 6X1.5L,,,texto,facil
+F0259,Comercial Pacífico,MOLINO ALEGRE FIDEO TALL 2KG EAN 2996753478976,2996753478976,,texto,facil
+F0260,Distribuidora Andina SAC,alimento perro cachorro 5000GR,,,texto,media
+F0261,Comercial Los Álamos,PACK 6 JU0G NARANJA 3000ML,2991647744793,imagenes/lote/F0261.jpg,foto,dificil
+F0262,Grupo Mayorista Naranjal,AZUC RUBIA 500GR,2996252807000,imagenes/lote/F0262.jpg,foto,dificil
+F0263,Distribuidora Andina SAC,1L AGUA GAS CAJA X12 MINERAL,,imagenes/lote/F0263.jpg,foto,dificil
+F0264,Abastecedora El Mirador,BRRARA CEREAL 60UN,2990741828897,,texto,dificil
+F0265,Corporación Costa Verde,TOALL HUM BEBE 6UN,,,texto,facil
+F0266,Distribuidora Andina SAC,1500ML jugo mango,,,texto,media
+F0267,Distribuciones Quebrada Alta,CREAM MABDS 500ML,,,texto,dificil
+F0268,Corporación Costa Verde,RIO CLARO HELADO LIMON 500ML,,,texto,facil
+F0269,Proveedora Santa Elena,CAJA X12 PIEL PACK 6 SERENA CEBOLLA CONG 200G,,,texto,dificil
+F0270,Corporación Costa Verde,PACK 6 AGUA MINERAL GAS 20L,,imagenes/lote/F0270.jpg,foto,dificil
+F0271,Importaciones Lima Norte,jabon barra X24,,,texto,media
+F0272,Import Export Rímac,leche descremada 3000ML,2999321571161,imagenes/lote/F0272.jpg,foto,media
+F0273,Comercial Los Álamos,choclo congelado 500GR,,imagenes/lote/F0273.jpg,foto,media
+F0274,Comercial Los Álamos,toallitas humedas bebe X8,,imagenes/lote/F0274.jpg,foto,media
+F0275,Corporación Costa Verde,PACK 6 BLANCO DE CSAA JABON ABRRA 24UN,,,texto,dificil
+F0276,Importaciones Lima Norte,"DESCRIPCION: CUIDADO SANO SHAMPOO SABILA 1L
+UNID: 1 L
+COD PROV: 2800
+LOTE: L361",,,pdf,facil
+F0277,Distribuidora Tres Fronteras,REF A7X9 500GR CBOCLO COCGELADO,,,texto,dificil
+F0278,Comercial Pacífico,"DESCRIPCION: RAENA PREMIUM CAJA X12 SANITARIA 200GR
+UNID: 200 G
+LOTE: L114",,,pdf,dificil
+F0279,Corporación Costa Verde,mantequilla sal 900GR,,,texto,media
+F0280,Abastecedora El Mirador,LALAVAJILLAS 2000ML,2993013205983,,texto,dificil
+F0281,Grupo Mayorista Naranjal,BRILLO NORTE LIMPIAD PISOS 900ML,2994397258442,imagenes/lote/F0281.jpg,foto,facil
+F0282,Corporación Costa Verde,BRILLO NORTE LIMPIAD PISOS 900ML,,imagenes/lote/F0282.jpg,foto,facil
+F0283,Grupo Mayorista Naranjal,mermelada frutilla 250GR,,,texto,media
+F0284,Grupo Mayorista Naranjal,SABORES DEL ALBA MERM FRESA 250G,2990668179225,,texto,facil
+F0285,Corporación Costa Verde,"DESCRIPCION: CAJA X12 BRILLO NORRTE LIMPIAD PISOS 900ML
+UNID: 900 ML
+COD PROV: 1409
+LOTE: L460",,,pdf,dificil
+F0286,Distribuidora Tres Fronteras,avena tres hojuelas 400GR,2994385469058,imagenes/lote/F0286.jpg,foto,media
+F0287,Mayorista San Martín,pizza familiar 500GR,,imagenes/lote/F0287.jpg,foto,media
+F0288,Import Export Rímac,CIELO ANDINO GASEOSA PINA 1.5L,,imagenes/lote/F0288.jpg,foto,facil
+F0289,Abastecedora El Mirador,leche evaporada 400GR,2993256885577,imagenes/lote/F0289.jpg,foto,media
+F0290,Import Export Rímac,170GR leche evaporada,,,texto,media
+F0291,Comercial Pacífico,PELUDIN ALIM PERRO ADULTO 250G,,,texto,facil
+F0292,Abastecedora El Mirador,"DESCRIPCION: yogur griego fresa 900GR
+LOTE: L396",,,pdf,media
+F0293,Comercial Pacífico,mermelada frutilla 250GR,2990668179225,,texto,media
+F0294,Almacén Central Sur,X30 barra cereal,,,texto,media
+F0295,Mayorista San Martín,BEBIDA REHID 500ML,,,texto,facil
+F0296,Grupo Mayorista Naranjal,MOLINO ALEGRE FIDEO CABELLO ANGEL 750G,,,texto,facil
+F0297,Corporación Costa Verde,aceite girasol 1.5L,,imagenes/lote/F0297.jpg,foto,media
+F0298,Distribuidora Andina SAC,gaseosa cola 4000ML,,imagenes/lote/F0298.jpg,foto,media
+F0299,Import Export Rímac,JABON TOCADOR 30UN,,,texto,facil
+F0300,Comercial Los Álamos,FRIO POLAR PIZZA FAM 750G,,imagenes/lote/F0300.jpg,foto,facil
+F0301,Abastecedora El Mirador,ENJUAGUE BUCAL 4L,,,texto,facil
+F0302,Mayorista San Martín,queso parmesano 10KG,,,texto,media
+F0303,Distribuidora Tres Fronteras,FACT 2291 OP 9910 BLANCO DE CASA DETERG LAVANDA 900G,,,texto,dificil
+F0304,Distribuciones Quebrada Alta,DON PANCHO GALL CHOC 900G,2991206176959,,texto,facil
+F0305,Almacén Central Sur,sal mesa 750GR,,,texto,media
+F0306,Corporación Costa Verde,gaseosa pina 4L,2996927670946,,texto,media
+F0307,Distribuidora Tres Fronteras,"DESCRIPCION: 170GR lenteja serrana
+UNID: 170 G
+COD PROV: 1896
+LOTE: L396",,,pdf,media
+F0308,Comercial Los Álamos,PE1UDIN SNAC PERRO HUESO 2KG,,imagenes/lote/F0308.jpg,foto,dificil
+F0309,Comercial Pacífico,"DESCRIPCION: BLANCO DE CASA SUAVIZ BEBE 900ML
+UNID: 900 ML
+COD PROV: 5225
+LOTE: L754",,,pdf,facil
+F0310,Grupo Mayorista Naranjal,COD 88123 CREMA LEHCE 4000ML,,,texto,dificil
+F0311,Abastecedora El Mirador,SHAMPOO ANTIC 3L,,,texto,facil
+F0312,Comercial Pacífico,gas cola 4L,2996352136291,imagenes/lote/F0312.jpg,foto,media
+F0313,Distribuidora Andina SAC,X6 cepillo dental,,,texto,media
+F0314,Abastecedora El Mirador,OP 9910 SERIE K2 ATUN AGUA 1KG,2997588814403,,texto,dificil
+F0315,Logística Puerto Nuevo,lenteja serrana 170GR,,,texto,media
+F0316,Comercial Los Álamos,lavavajillas 2000ML,,,texto,media
+F0317,Distribuciones Quebrada Alta,yogur griego natural 10000GR,,,texto,media
+F0318,Logística Puerto Nuevo,DON PANCHO PAPEL TOALLA 24UN,,,texto,facil
+F0319,Grupo Mayorista Naranjal,SERIE K2 GASEOSA PINAA PROMO 4L,2996927670946,,texto,dificil
+F0320,Corporación Costa Verde,PROV-4471 MAYONESA 500GR,,,texto,dificil
+F0321,Distribuidora Andina SAC,shampoo anticaspa 1500ML,,,texto,media
+F0322,Grupo Mayorista Naranjal,GASOESA LOTE 24 PINA 4L,,,texto,dificil
+F0323,Distribuidora Andina SAC,"DESCRIPCION: 2KG harina preparada
+UNID: 2 KG
+LOTE: L150",,,pdf,media
+F0324,Grupo Mayorista Naranjal,SNACK PERRO HUESO 750G,,imagenes/lote/F0324.jpg,foto,facil
+F0325,Import Export Rímac,"DESCRIPCION: 250GR ALIMENTO PERRO ADU1TO
+LOTE: L116",,,pdf,dificil
+F0326,Grupo Mayorista Naranjal,CAMPO ALEGRE FRIJOL CAN 1KG,,,texto,facil
+F0327,Import Export Rímac,750GR fideo cabello angel,2996360824456,imagenes/lote/F0327.jpg,foto,media
+F0328,Distribuidora Tres Fronteras,kiwicha 5KG,,imagenes/lote/F0328.jpg,foto,media
+F0329,Corporación Costa Verde,kiwicha 400GR,,,texto,media
+F0330,Corporación Costa Verde,FRIO POLAR HELADO VAINILLA 4L,,,texto,facil
+F0331,Logística Puerto Nuevo,ambientador 900ML,2994705670904,,texto,media
+F0332,Corporación Costa Verde,arroz integral 510GR,2997555218241,,texto,media
+F0333,Import Export Rímac,GSASEOSA PPINA 4L,,imagenes/lote/F0333.jpg,foto,dificil
+F0334,Mayorista San Martín,900GR queso edam EAN 2997926451543,2997926451543,,texto,media
+F0335,Corporación Costa Verde,BIGOTES FELICES ALIM GATO ADULTO 3X170G,,,texto,facil
+F0336,Proveedora Santa Elena,"DESCRIPCION: filete basa 170GR
+UNID: 170 G
+LOTE: L593",,,pdf,media
+F0337,Comercial Pacífico,500GR CHFCLO CONGELADO,2998129770578,,texto,dificil
+F0338,Mayorista San Martín,yogur fresa bebible 9L,2994526309762,imagenes/lote/F0338.jpg,foto,media
+F0339,Abastecedora El Mirador,GASEOSA UVAA 500ML,,,texto,dificil
+F0340,Comercial Los Álamos,PACK 6 CREMA CORPORAL 2000ML OP 9910,,,texto,dificil

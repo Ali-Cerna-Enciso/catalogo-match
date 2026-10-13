@@ -1,0 +1,10 @@
+﻿id_fila,proveedor,texto,codigo_barras,imagen,fuente,dificultad
+F0002,Corporación Costa Verde,NUTRIVIDA CEREAL MAIZ 2KG,,,texto,facil
+F0019,Proveedora Santa Elena,ANDINA QUINUA PERL 200G,2996898329829,../imagenes/lote/F0019.jpg,foto,facil
+F0003,Abastecedora El Mirador,fideo espagueti 200GR,,,texto,media
+F0004,Almacén Central Sur,REF A7X9 900GR PA5TA DENTA,,,texto,dificil
+F0022,Corporación Costa Verde,"DESCRIPCION: 3L shampoo anticaspa
+EAN: 2998296017964
+LOTE: L987",2998296017964,,pdf,media
+F0001,Distribuidora Andina SAC,FRIO POLAR NUGGETS POLLO 750G,,../imagenes/lote/F0001.jpg,foto,facil
+F0015,Logística Puerto Nuevo,leche entera 1500ML,,,texto,media

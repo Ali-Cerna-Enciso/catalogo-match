@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="268" viewBox="0 0 900 268" role="img" aria-label="Prueba etiquetada: 98.6% acierto sin codigo de barras, 100% en el top 3, 95.5% de precision calibrada, 0 envases mal aceptados">
+  <rect width="900" height="268" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <text x="28" y="34" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#8b949e">157 productos · 300 pedidos · etiquetado a mano · CPU · EmbeddingGemma 2</text>
+
+  <g font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="130" y="88" font-size="40" font-weight="700" fill="#3fb950">98.6%</text>
+    <text x="130" y="112" font-size="13" fill="#c9d1d9">Acierta el producto</text>
+    <text x="130" y="130" font-size="11" fill="#8b949e">sin codigo de barras</text>
+
+    <text x="340" y="88" font-size="40" font-weight="700" fill="#58a6ff">100%</text>
+    <text x="340" y="112" font-size="13" fill="#c9d1d9">Sale en el top 3</text>
+    <text x="340" y="130" font-size="11" fill="#8b949e">el correcto siempre esta</text>
+
+    <text x="560" y="88" font-size="40" font-weight="700" fill="#d29922">95.5%</text>
+    <text x="560" y="112" font-size="13" fill="#c9d1d9">Si decide solo</text>
+    <text x="560" y="130" font-size="11" fill="#8b949e">cuenta tambien los que no existen</text>
+
+    <text x="770" y="88" font-size="40" font-weight="700" fill="#e6edf3">2/36</text>
+    <text x="770" y="112" font-size="13" fill="#c9d1d9">no estaban y se aceptaron</text>
+    <text x="770" y="130" font-size="11" fill="#8b949e">el resto: revisar o no se</text>
+  </g>
+
+  <text x="28" y="168" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">Acierta el producto, frente a busqueda aproximada</text>
+  <rect x="28" y="180" width="844" height="20" rx="5" fill="#21262d"/>
+  <rect x="28" y="180" width="833" height="20" rx="5" fill="#238636"/>
+  <text x="40" y="195" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#ffffff">catalogo-match · 98.6%</text>
+  <rect x="28" y="210" width="844" height="20" rx="5" fill="#21262d"/>
+  <rect x="28" y="210" width="726" height="20" rx="5" fill="#484f58"/>
+  <text x="40" y="225" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d1d9">busqueda aproximada · 86.0%</text>
+  <text x="28" y="254" font-family="ui-sans-serif, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8b949e">0 envases equivocados se aceptaron solos (900 g vs 1 kg va a revision). Catalogo y precios no salen del servidor.</text>
+</svg>

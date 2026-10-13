@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  calidad:
+    name: Lint y pruebas
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar
+        run: |
+          python -m pip install -U pip
+          pip install -e ".[dev]"
+      - name: Ruff
+        run: ruff check .
+      - name: Pytest
+        run: pytest -q
+
+  demo:
+    name: Demo end-to-end (backend offline)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Instalar
+        run: |
+          python -m pip install -U pip
+          pip install -e ".[dev]"
+      - name: Generar datos sintéticos
+        run: python tools/generar_datos_sinteticos.py --salida data/sintetico
+      - name: Indexar (backend offline determinista)
+        run: |
+          catalogo-match indexar \
+            --maestro data/sintetico/maestro.csv \
+            --salida salidas/indice_hash \
+            --backend hash
+      - name: Evaluar
+        run: |
+          catalogo-match evaluar \
+            --indice salidas/indice_hash \
+            --lote data/sintetico/lote_sucio.csv \
+            --verdad data/sintetico/verdad.csv \
+            --informe salidas/informe_ci.md
+      - name: Mostrar informe
+        run: head -n 60 salidas/informe_ci.md

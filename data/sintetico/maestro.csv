@@ -1,0 +1,161 @@
+﻿sku,nombre,marca,presentacion,contenido_valor,contenido_unidad,categoria,subcategoria,codigo_barras,precio_lista,stock,activo,imagen
+SKU-000001,Yogurt Griego Fresa,Aurora,3 x 170 g,510,g,lacteos,yogurt,2997879432620,51.28,149,1,imagenes/maestro/SKU-000001.png
+SKU-000002,Yogurt Griego Fresa,Aurora,900 g,900,g,lacteos,yogurt,2990586021453,9.08,207,1,imagenes/maestro/SKU-000002.png
+SKU-000003,Yogurt Griego Natural,Aurora,900 g,900,g,lacteos,yogurt,2994210839490,41.11,159,1,imagenes/maestro/SKU-000003.png
+SKU-000004,Yogurt Griego Natural,Aurora,10 kg,10000,g,lacteos,yogurt,2996688281122,43.44,25,1,imagenes/maestro/SKU-000004.png
+SKU-000005,Yogurt Bebible Fresa,Valle Verde,1.5 L,1500,ml,lacteos,yogurt,2995844093241,34.47,127,1,imagenes/maestro/SKU-000005.png
+SKU-000006,Yogurt Bebible Fresa,Valle Verde,6 x 1.5 L,9000,ml,lacteos,yogurt,2994526309762,40.85,238,1,imagenes/maestro/SKU-000006.png
+SKU-000007,Leche Entera,La Huerta Alegre,1.5 L,1500,ml,lacteos,leche,2998280258229,48.39,0,1,imagenes/maestro/SKU-000007.png
+SKU-000008,Leche Entera,La Huerta Alegre,6 x 1.5 L,9000,ml,lacteos,leche,2991805154389,31.11,94,1,imagenes/maestro/SKU-000008.png
+SKU-000009,Leche Descremada,La Huerta Alegre,3 L,3000,ml,lacteos,leche,2999321571161,27.12,16,1,imagenes/maestro/SKU-000009.png
+SKU-000010,Leche Descremada,La Huerta Alegre,4 L,4000,ml,lacteos,leche,2994157718834,19.07,163,1,imagenes/maestro/SKU-000010.png
+SKU-000011,Leche Evaporada,Manantial Azul,170 g,170,g,lacteos,leche,2997951117445,3.92,216,1,imagenes/maestro/SKU-000011.png
+SKU-000012,Leche Evaporada,Manantial Azul,4 x 100 g,400,g,lacteos,leche,2993256885577,40.03,128,1,imagenes/maestro/SKU-000012.png
+SKU-000013,Queso Fresco,Blanco de Casa,2 kg,2000,g,lacteos,queso,2992373556964,57.72,68,0,imagenes/maestro/SKU-000013.png
+SKU-000014,Queso Edam,Blanco de Casa,900 g,900,g,lacteos,queso,2997926451543,22.88,218,1,imagenes/maestro/SKU-000014.png
+SKU-000015,Queso Edam,Blanco de Casa,1 kg,1000,g,lacteos,queso,2997428435287,13.59,202,0,imagenes/maestro/SKU-000015.png
+SKU-000016,Mantequilla con Sal,Aurora,900 g,900,g,lacteos,mantequilla,2994497660855,29.07,5,1,imagenes/maestro/SKU-000016.png
+SKU-000017,Mantequilla con Sal,Aurora,10 kg,10000,g,lacteos,mantequilla,2995178836552,46.47,0,1,imagenes/maestro/SKU-000017.png
+SKU-000018,Crema de Leche,Valle Verde,3 L,3000,ml,lacteos,crema,2996204842592,34.35,247,0,imagenes/maestro/SKU-000018.png
+SKU-000019,Crema de Leche,Valle Verde,4 L,4000,ml,lacteos,crema,2996775003149,54.62,176,1,imagenes/maestro/SKU-000019.png
+SKU-000020,Aceite Girasol,Don Pancho,1.5 L,1500,ml,abarrotes,aceites,2993784951836,28.54,202,1,imagenes/maestro/SKU-000020.png
+SKU-000021,Aceite Girasol,Don Pancho,2 L,2000,ml,abarrotes,aceites,2990125373920,49.09,0,1,imagenes/maestro/SKU-000021.png
+SKU-000022,Aceite Vegetal,Don Pancho,4 L,4000,ml,abarrotes,aceites,2991968982102,17.01,260,1,imagenes/maestro/SKU-000022.png
+SKU-000023,Aceite Vegetal,Don Pancho,6 x 1.5 L,9000,ml,abarrotes,aceites,2996028837552,55.47,0,1,imagenes/maestro/SKU-000023.png
+SKU-000024,Aceite de Oliva Extra,Campo Alegre,900 ml,900,ml,abarrotes,aceites,2999747540727,50.86,198,1,imagenes/maestro/SKU-000024.png
+SKU-000025,Aceite de Oliva Extra,Campo Alegre,3 L,3000,ml,abarrotes,aceites,2995473548648,29.79,184,1,imagenes/maestro/SKU-000025.png
+SKU-000026,Arroz Extra,Molino Alegre,200 g,200,g,abarrotes,granos,2990618847914,17.46,43,1,imagenes/maestro/SKU-000026.png
+SKU-000027,Arroz Extra,Molino Alegre,5 kg,5000,g,abarrotes,granos,,30.91,212,1,imagenes/maestro/SKU-000027.png
+SKU-000028,Arroz Integral,Molino Alegre,200 g,200,g,abarrotes,granos,,45.36,157,1,imagenes/maestro/SKU-000028.png
+SKU-000029,Arroz Integral,Molino Alegre,3 x 170 g,510,g,abarrotes,granos,2997555218241,25.86,0,1,imagenes/maestro/SKU-000029.png
+SKU-000030,Lenteja Serrana,Campo Alegre,170 g,170,g,abarrotes,granos,,7.35,32,1,imagenes/maestro/SKU-000030.png
+SKU-000031,Lenteja Serrana,Campo Alegre,900 g,900,g,abarrotes,granos,,28.17,258,1,imagenes/maestro/SKU-000031.png
+SKU-000032,Frijol Canario,Campo Alegre,200 g,200,g,abarrotes,granos,2996193073366,37.39,92,1,imagenes/maestro/SKU-000032.png
+SKU-000033,Frijol Canario,Campo Alegre,1 kg,1000,g,abarrotes,granos,2998283472851,13.53,25,1,imagenes/maestro/SKU-000033.png
+SKU-000034,Quinua Perlada,Andina,200 g,200,g,abarrotes,granos,2996898329829,4.59,130,1,imagenes/maestro/SKU-000034.png
+SKU-000035,Quinua Perlada,Andina,2 kg,2000,g,abarrotes,granos,2992900442241,33.69,0,1,imagenes/maestro/SKU-000035.png
+SKU-000036,Kiwicha,Andina,4 x 100 g,400,g,abarrotes,granos,,45.94,223,1,imagenes/maestro/SKU-000036.png
+SKU-000037,Kiwicha,Andina,5 kg,5000,g,abarrotes,granos,2992722022690,22.72,90,1,imagenes/maestro/SKU-000037.png
+SKU-000038,Azúcar Rubia,Doña Clementina,170 g,170,g,abarrotes,azucares,2998043858178,40.55,95,1,imagenes/maestro/SKU-000038.png
+SKU-000039,Azúcar Rubia,Doña Clementina,500 g,500,g,abarrotes,azucares,2996252807000,35.31,20,1,imagenes/maestro/SKU-000039.png
+SKU-000040,Azúcar Blanca,Doña Clementina,250 g,250,g,abarrotes,azucares,2999450283164,33.66,229,1,imagenes/maestro/SKU-000040.png
+SKU-000041,Azúcar Blanca,Doña Clementina,900 g,900,g,abarrotes,azucares,2993233735284,29.43,0,1,imagenes/maestro/SKU-000041.png
+SKU-000042,Fideo Tallarín,Molino Alegre,250 g,250,g,abarrotes,pastas,,52.81,0,1,imagenes/maestro/SKU-000042.png
+SKU-000043,Fideo Tallarín,Molino Alegre,2 kg,2000,g,abarrotes,pastas,2996753478976,31.27,212,1,imagenes/maestro/SKU-000043.png
+SKU-000044,Fideo Cabello de Ángel,Molino Alegre,200 g,200,g,abarrotes,pastas,2993311592129,40.78,173,1,imagenes/maestro/SKU-000044.png
+SKU-000045,Fideo Cabello de Ángel,Molino Alegre,750 g,750,g,abarrotes,pastas,2996360824456,56.23,130,1,imagenes/maestro/SKU-000045.png
+SKU-000046,Atún en Aceite,Sabor Sureño,4 x 100 g,400,g,abarrotes,conservas,2997874572123,31.45,257,1,imagenes/maestro/SKU-000046.png
+SKU-000047,Atún en Aceite,Sabor Sureño,2 kg,2000,g,abarrotes,conservas,2995769908545,24.64,48,1,imagenes/maestro/SKU-000047.png
+SKU-000048,Atún en Agua,Sabor Sureño,250 g,250,g,abarrotes,conservas,,48.8,60,1,imagenes/maestro/SKU-000048.png
+SKU-000049,Atún en Agua,Sabor Sureño,1 kg,1000,g,abarrotes,conservas,2997588814403,23.81,6,1,imagenes/maestro/SKU-000049.png
+SKU-000050,Sal de Mesa,Sabor Sureño,200 g,200,g,abarrotes,condimentos,2990187916974,53.49,16,1,imagenes/maestro/SKU-000050.png
+SKU-000051,Sal de Mesa,Sabor Sureño,750 g,750,g,abarrotes,condimentos,2998025201619,4.98,258,1,imagenes/maestro/SKU-000051.png
+SKU-000052,Mayonesa,Sabor Sureño,500 g,500,g,abarrotes,condimentos,2994001981520,22.5,211,1,imagenes/maestro/SKU-000052.png
+SKU-000053,Mayonesa,Sabor Sureño,5 kg,5000,g,abarrotes,condimentos,2997357363859,46.63,14,1,imagenes/maestro/SKU-000053.png
+SKU-000054,Salsa de Tomate,Sabor Sureño,170 g,170,g,abarrotes,condimentos,2997392731972,31.6,18,1,imagenes/maestro/SKU-000054.png
+SKU-000055,Salsa de Tomate,Sabor Sureño,10 kg,10000,g,abarrotes,condimentos,2997807360872,21.01,0,1,imagenes/maestro/SKU-000055.png
+SKU-000056,Avena Tres Hojuelas,Sabores del Alba,4 x 100 g,400,g,abarrotes,desayuno,2994385469058,20.91,93,1,imagenes/maestro/SKU-000056.png
+SKU-000057,Avena Tres Hojuelas,Sabores del Alba,900 g,900,g,abarrotes,desayuno,2998281953918,9.04,68,1,imagenes/maestro/SKU-000057.png
+SKU-000058,Café Molido,Sabores del Alba,900 g,900,g,abarrotes,desayuno,2997611660335,37.88,0,1,imagenes/maestro/SKU-000058.png
+SKU-000059,Café Molido,Sabores del Alba,2 kg,2000,g,abarrotes,desayuno,2992845142039,11.9,88,1,imagenes/maestro/SKU-000059.png
+SKU-000060,Harina Preparada,Molino Alegre,1 kg,1000,g,abarrotes,desayuno,2998178057804,14.01,9,1,imagenes/maestro/SKU-000060.png
+SKU-000061,Harina Preparada,Molino Alegre,2 kg,2000,g,abarrotes,desayuno,,38.15,255,1,imagenes/maestro/SKU-000061.png
+SKU-000062,Cereal de Maíz,NutriVida,900 g,900,g,abarrotes,desayuno,,15.53,11,1,imagenes/maestro/SKU-000062.png
+SKU-000063,Cereal de Maíz,NutriVida,2 kg,2000,g,abarrotes,desayuno,,43.23,47,1,imagenes/maestro/SKU-000063.png
+SKU-000064,Barra de Cereal,NutriVida,30 un,30,un,abarrotes,desayuno,2997041214306,3.98,220,1,imagenes/maestro/SKU-000064.png
+SKU-000065,Barra de Cereal,NutriVida,60 un,60,un,abarrotes,desayuno,2990741828897,39.54,0,1,imagenes/maestro/SKU-000065.png
+SKU-000066,Mermelada de Fresa,Sabores del Alba,170 g,170,g,abarrotes,dulces,2997085386717,39.6,77,1,imagenes/maestro/SKU-000066.png
+SKU-000067,Mermelada de Fresa,Sabores del Alba,250 g,250,g,abarrotes,dulces,2990668179225,56.0,136,1,imagenes/maestro/SKU-000067.png
+SKU-000068,Galleta de Soda,Don Pancho,170 g,170,g,abarrotes,dulces,2998385642718,52.35,162,1,imagenes/maestro/SKU-000068.png
+SKU-000069,Galleta de Soda,Don Pancho,900 g,900,g,abarrotes,dulces,2991298372529,39.17,98,1,imagenes/maestro/SKU-000069.png
+SKU-000070,Galleta de Chocolate,Don Pancho,900 g,900,g,abarrotes,dulces,2991206176959,52.91,258,1,imagenes/maestro/SKU-000070.png
+SKU-000071,Galleta de Chocolate,Don Pancho,5 kg,5000,g,abarrotes,dulces,2995190431636,9.49,76,1,imagenes/maestro/SKU-000071.png
+SKU-000072,Agua Mineral Sin Gas,Manantial Azul,1 L,1000,ml,bebidas,agua,,47.55,29,1,imagenes/maestro/SKU-000072.png
+SKU-000073,Agua Mineral Sin Gas,Manantial Azul,6 x 1.5 L,9000,ml,bebidas,agua,2999924800521,31.98,197,1,imagenes/maestro/SKU-000073.png
+SKU-000074,Agua Mineral con Gas,Manantial Azul,900 ml,900,ml,bebidas,agua,2999137298719,40.35,0,1,imagenes/maestro/SKU-000074.png
+SKU-000075,Agua Mineral con Gas,Manantial Azul,20 L,20000,ml,bebidas,agua,2990984264070,12.79,81,1,imagenes/maestro/SKU-000075.png
+SKU-000076,Jugo de Naranja,Frescura Andina,1.5 L,1500,ml,bebidas,jugos,2992607911354,32.91,144,1,imagenes/maestro/SKU-000076.png
+SKU-000077,Jugo de Naranja,Frescura Andina,3 L,3000,ml,bebidas,jugos,2991647744793,52.35,139,1,imagenes/maestro/SKU-000077.png
+SKU-000078,Jugo de Mango,Frescura Andina,1.5 L,1500,ml,bebidas,jugos,2994521980331,12.86,114,1,imagenes/maestro/SKU-000078.png
+SKU-000079,Jugo de Mango,Frescura Andina,3 L,3000,ml,bebidas,jugos,,12.13,0,1,imagenes/maestro/SKU-000079.png
+SKU-000080,Gaseosa Cola,Cielo Andino,4 L,4000,ml,bebidas,gaseosas,2996352136291,59.96,35,1,imagenes/maestro/SKU-000080.png
+SKU-000081,Gaseosa Cola,Cielo Andino,20 L,20000,ml,bebidas,gaseosas,2998639848866,49.27,242,1,imagenes/maestro/SKU-000081.png
+SKU-000082,Gaseosa Piña,Cielo Andino,1.5 L,1500,ml,bebidas,gaseosas,2995732840933,12.26,227,1,imagenes/maestro/SKU-000082.png
+SKU-000083,Gaseosa Piña,Cielo Andino,4 L,4000,ml,bebidas,gaseosas,2996927670946,32.12,0,1,imagenes/maestro/SKU-000083.png
+SKU-000084,Refresco de Limón,Río Claro,500 ml,500,ml,bebidas,refrescos,2999858463885,32.58,142,1,imagenes/maestro/SKU-000084.png
+SKU-000085,Refresco de Limón,Río Claro,4 L,4000,ml,bebidas,refrescos,2999855683064,32.43,220,1,imagenes/maestro/SKU-000085.png
+SKU-000086,Bebida Rehidratante,Puro Norte,500 ml,500,ml,bebidas,rehidratantes,2996953896501,51.18,200,1,imagenes/maestro/SKU-000086.png
+SKU-000087,Bebida Rehidratante,Puro Norte,1.5 L,1500,ml,bebidas,rehidratantes,2993279672680,15.42,141,0,imagenes/maestro/SKU-000087.png
+SKU-000088,Té Helado Limón,Río Claro,500 ml,500,ml,bebidas,te,2990811136174,39.45,110,1,imagenes/maestro/SKU-000088.png
+SKU-000089,Té Helado Limón,Río Claro,4 L,4000,ml,bebidas,te,2998163540113,25.66,0,1,imagenes/maestro/SKU-000089.png
+SKU-000090,Detergente en Polvo,LimpiaMax,250 g,250,g,limpieza,ropa,2992761138758,57.75,87,0,imagenes/maestro/SKU-000090.png
+SKU-000091,Detergente en Polvo,LimpiaMax,5 kg,5000,g,limpieza,ropa,2991153277181,22.41,109,1,imagenes/maestro/SKU-000091.png
+SKU-000092,Detergente Líquido,LimpiaMax,900 ml,900,ml,limpieza,ropa,2996210761771,34.6,60,1,imagenes/maestro/SKU-000092.png
+SKU-000093,Detergente Líquido,LimpiaMax,2 L,2000,ml,limpieza,ropa,2997510626142,35.2,0,1,imagenes/maestro/SKU-000093.png
+SKU-000094,Suavizante de Ropa,Brillo Norte,1 L,1000,ml,limpieza,ropa,2998361520290,8.36,224,1,imagenes/maestro/SKU-000094.png
+SKU-000095,Suavizante de Ropa,Brillo Norte,6 x 1.5 L,9000,ml,limpieza,ropa,2994461351611,43.53,245,1,imagenes/maestro/SKU-000095.png
+SKU-000096,Lejía,LimpiaMax,1 L,1000,ml,limpieza,hogar,2999456994392,35.05,228,1,imagenes/maestro/SKU-000096.png
+SKU-000097,Lejía,LimpiaMax,6 x 1.5 L,9000,ml,limpieza,hogar,2998640894876,34.64,232,1,imagenes/maestro/SKU-000097.png
+SKU-000098,Limpiador de Pisos,Brillo Norte,900 ml,900,ml,limpieza,hogar,2994397258442,7.88,84,1,imagenes/maestro/SKU-000098.png
+SKU-000099,Limpiador de Pisos,Brillo Norte,6 x 1.5 L,9000,ml,limpieza,hogar,2999303995510,17.3,46,1,imagenes/maestro/SKU-000099.png
+SKU-000100,Limpiador de Vidrios,Brillo Norte,900 ml,900,ml,limpieza,hogar,2996697961565,8.15,149,1,imagenes/maestro/SKU-000100.png
+SKU-000101,Limpiador de Vidrios,Brillo Norte,3 L,3000,ml,limpieza,hogar,2997959650562,5.5,49,1,imagenes/maestro/SKU-000101.png
+SKU-000102,Ambientador,LimpiaMax,900 ml,900,ml,limpieza,hogar,2994705670904,39.46,193,1,imagenes/maestro/SKU-000102.png
+SKU-000103,Ambientador,LimpiaMax,2 L,2000,ml,limpieza,hogar,,8.17,113,1,imagenes/maestro/SKU-000103.png
+SKU-000104,Lavavajillas,LimpiaMax,1.5 L,1500,ml,limpieza,vajilla,2998015646444,36.11,151,1,imagenes/maestro/SKU-000104.png
+SKU-000105,Lavavajillas,LimpiaMax,2 L,2000,ml,limpieza,vajilla,2993013205983,5.71,156,1,imagenes/maestro/SKU-000105.png
+SKU-000106,Jabón en Barra,Blanco de Casa,8 un,8,un,limpieza,vajilla,2999889042165,17.13,229,1,imagenes/maestro/SKU-000106.png
+SKU-000107,Jabón en Barra,Blanco de Casa,24 un,24,un,limpieza,vajilla,2991119602781,5.65,204,1,imagenes/maestro/SKU-000107.png
+SKU-000108,Shampoo Anticaspa,Cuidado Sano,1.5 L,1500,ml,cuidado personal,cabello,2994658730649,26.04,227,1,imagenes/maestro/SKU-000108.png
+SKU-000109,Shampoo Anticaspa,Cuidado Sano,3 L,3000,ml,cuidado personal,cabello,2998296017964,2.89,71,1,imagenes/maestro/SKU-000109.png
+SKU-000110,Shampoo de Sábila,Cuidado Sano,500 ml,500,ml,cuidado personal,cabello,2997204126347,3.33,0,1,imagenes/maestro/SKU-000110.png
+SKU-000111,Shampoo de Sábila,Cuidado Sano,1 L,1000,ml,cuidado personal,cabello,,9.14,182,1,imagenes/maestro/SKU-000111.png
+SKU-000112,Crema Corporal,Piel Serena,2 L,2000,ml,cuidado personal,piel,2999235240139,20.27,91,1,imagenes/maestro/SKU-000112.png
+SKU-000113,Crema Corporal,Piel Serena,6 x 1.5 L,9000,ml,cuidado personal,piel,2991561059140,28.45,35,1,imagenes/maestro/SKU-000113.png
+SKU-000114,Jabón de Tocador,Piel Serena,4 un,4,un,cuidado personal,higiene,2993541488186,20.33,21,1,imagenes/maestro/SKU-000114.png
+SKU-000115,Jabón de Tocador,Piel Serena,30 un,30,un,cuidado personal,higiene,2993785222386,14.51,0,1,imagenes/maestro/SKU-000115.png
+SKU-000116,Pasta Dental,Cuidado Sano,900 g,900,g,cuidado personal,higiene,2991649753328,26.72,110,1,imagenes/maestro/SKU-000116.png
+SKU-000117,Cepillo Dental,Cuidado Sano,6 un,6,un,cuidado personal,higiene,,51.96,113,1,imagenes/maestro/SKU-000117.png
+SKU-000118,Cepillo Dental,Cuidado Sano,24 un,24,un,cuidado personal,higiene,2999294808530,41.52,89,1,imagenes/maestro/SKU-000118.png
+SKU-000119,Papel Higiénico,Blanco de Casa,12 un,12,un,cuidado personal,higiene,2997042476130,24.56,40,1,imagenes/maestro/SKU-000119.png
+SKU-000120,Toalla Femenina,Piel Serena,4 un,4,un,cuidado personal,higiene,2994617544201,44.65,68,1,imagenes/maestro/SKU-000120.png
+SKU-000121,Toalla Femenina,Piel Serena,24 un,24,un,cuidado personal,higiene,,27.33,224,0,imagenes/maestro/SKU-000121.png
+SKU-000122,Alcohol en Gel,Cuidado Sano,250 ml,250,ml,cuidado personal,higiene,2996133800533,42.33,205,1,imagenes/maestro/SKU-000122.png
+SKU-000123,Alcohol en Gel,Cuidado Sano,1.5 L,1500,ml,cuidado personal,higiene,2995147865897,18.79,216,1,imagenes/maestro/SKU-000123.png
+SKU-000124,Desodorante Roll-On,Cuidado Sano,500 ml,500,ml,cuidado personal,higiene,2995977605533,46.54,83,1,imagenes/maestro/SKU-000124.png
+SKU-000125,Desodorante Roll-On,Cuidado Sano,1.5 L,1500,ml,cuidado personal,higiene,2994885681066,20.5,88,1,imagenes/maestro/SKU-000125.png
+SKU-000126,Pañal Bebé,Mimos Baby,4 un,4,un,cuidado personal,bebe,2990907276159,13.45,0,1,imagenes/maestro/SKU-000126.png
+SKU-000127,Pañal Bebé,Mimos Baby,24 un,24,un,cuidado personal,bebe,,5.26,241,1,imagenes/maestro/SKU-000127.png
+SKU-000128,Toallitas Húmedas Bebé,Mimos Baby,6 un,6,un,cuidado personal,bebe,2993633437016,37.9,0,1,imagenes/maestro/SKU-000128.png
+SKU-000129,Toallitas Húmedas Bebé,Mimos Baby,8 un,8,un,cuidado personal,bebe,2998752623944,8.86,48,1,imagenes/maestro/SKU-000129.png
+SKU-000130,Alimento Perro Adulto,Peludín,250 g,250,g,mascotas,perro,2996466863168,22.53,115,1,imagenes/maestro/SKU-000130.png
+SKU-000131,Alimento Perro Adulto,Peludín,1 kg,1000,g,mascotas,perro,2995398997453,39.58,99,1,imagenes/maestro/SKU-000131.png
+SKU-000132,Alimento Perro Cachorro,Peludín,5 kg,5000,g,mascotas,perro,,19.53,63,1,imagenes/maestro/SKU-000132.png
+SKU-000133,Snack Perro Hueso,Peludín,750 g,750,g,mascotas,perro,2995813421723,9.33,91,1,imagenes/maestro/SKU-000133.png
+SKU-000134,Snack Perro Hueso,Peludín,2 kg,2000,g,mascotas,perro,2993496770442,26.09,142,1,imagenes/maestro/SKU-000134.png
+SKU-000135,Alimento Gato Adulto,Bigotes Felices,3 x 170 g,510,g,mascotas,gato,2990475168863,47.04,253,1,imagenes/maestro/SKU-000135.png
+SKU-000136,Alimento Gato Adulto,Bigotes Felices,750 g,750,g,mascotas,gato,2996114108238,40.43,49,0,imagenes/maestro/SKU-000136.png
+SKU-000137,Alimento Gato Cachorro,Bigotes Felices,250 g,250,g,mascotas,gato,,33.49,193,1,imagenes/maestro/SKU-000137.png
+SKU-000138,Alimento Gato Cachorro,Bigotes Felices,10 kg,10000,g,mascotas,gato,2995349404290,40.37,17,1,imagenes/maestro/SKU-000138.png
+SKU-000139,Arena Sanitaria,Bigotes Felices,1 kg,1000,g,mascotas,gato,,34.18,68,1,imagenes/maestro/SKU-000139.png
+SKU-000140,Arena Sanitaria,Bigotes Felices,5 kg,5000,g,mascotas,gato,2994781824468,53.57,194,1,imagenes/maestro/SKU-000140.png
+SKU-000141,Hamburguesa de Res,Frío Polar,250 g,250,g,congelados,carnes,2996195680807,3.35,79,1,imagenes/maestro/SKU-000141.png
+SKU-000142,Hamburguesa de Res,Frío Polar,3 x 170 g,510,g,congelados,carnes,2990052007004,18.06,0,1,imagenes/maestro/SKU-000142.png
+SKU-000143,Nuggets de Pollo,Frío Polar,750 g,750,g,congelados,aves,2991703927337,17.3,0,1,imagenes/maestro/SKU-000143.png
+SKU-000144,Nuggets de Pollo,Frío Polar,900 g,900,g,congelados,aves,2997030488770,20.26,95,1,imagenes/maestro/SKU-000144.png
+SKU-000145,Papas Prefritas,Campo Alegre,2 kg,2000,g,congelados,vegetales,2991661146351,7.19,31,1,imagenes/maestro/SKU-000145.png
+SKU-000146,Papas Prefritas,Campo Alegre,5 kg,5000,g,congelados,vegetales,2990203830048,12.4,254,1,imagenes/maestro/SKU-000146.png
+SKU-000147,Arveja Congelada,Campo Alegre,170 g,170,g,congelados,vegetales,2993004263718,52.24,153,1,imagenes/maestro/SKU-000147.png
+SKU-000148,Arveja Congelada,Campo Alegre,5 kg,5000,g,congelados,vegetales,,49.78,90,1,imagenes/maestro/SKU-000148.png
+SKU-000149,Choclo Congelado,Campo Alegre,4 x 100 g,400,g,congelados,vegetales,2995529301265,38.71,175,1,imagenes/maestro/SKU-000149.png
+SKU-000150,Choclo Congelado,Campo Alegre,500 g,500,g,congelados,vegetales,2998129770578,45.76,200,1,imagenes/maestro/SKU-000150.png
+SKU-000151,Filete de Basa,Frío Polar,170 g,170,g,congelados,pescados,2992992398136,40.16,167,1,imagenes/maestro/SKU-000151.png
+SKU-000152,Filete de Basa,Frío Polar,500 g,500,g,congelados,pescados,2990271861586,2.66,256,1,imagenes/maestro/SKU-000152.png
+SKU-000153,Helado de Vainilla,Frío Polar,1 L,1000,ml,congelados,postres,,5.38,0,1,imagenes/maestro/SKU-000153.png
+SKU-000154,Helado de Vainilla,Frío Polar,4 L,4000,ml,congelados,postres,2999991470672,14.87,259,1,imagenes/maestro/SKU-000154.png
+SKU-000155,Helado de Chocolate,Frío Polar,900 ml,900,ml,congelados,postres,2995485066352,55.78,99,1,imagenes/maestro/SKU-000155.png
+SKU-000156,Helado de Chocolate,Frío Polar,6 x 1.5 L,9000,ml,congelados,postres,2997682597349,54.55,243,1,imagenes/maestro/SKU-000156.png
+SKU-000157,Pizza Familiar,Frío Polar,500 g,500,g,congelados,platos,2991241726430,57.16,52,1,imagenes/maestro/SKU-000157.png
+SKU-000158,Pizza Familiar,Frío Polar,750 g,750,g,congelados,platos,2996628290924,15.49,252,0,imagenes/maestro/SKU-000158.png
+SKU-000159,Lomo Saltado Congelado,Frío Polar,4 x 100 g,400,g,congelados,platos,2992422042622,51.95,209,1,imagenes/maestro/SKU-000159.png
+SKU-000160,Lomo Saltado Congelado,Frío Polar,500 g,500,g,congelados,platos,2997095060188,23.73,0,1,imagenes/maestro/SKU-000160.png
